@@ -6,3 +6,4 @@ The list of figures includes:
 3. Figure 3. Inter-product spread among time series of the spatially-weighted average of the annual wettest day (Rx1day; in mm) over different sub-regions of a continent as defined in the Sixth IPCC Assessment Report (AR6) and shown in Figure 1. Datasets from the FROGS (Roca et al., 2019) global database are used in addition to a regional in situ dataset
 4. Figure 4. Summary global maps for sub-regions
 5. Figure 5. Trend plots for sub-regions
+6. Figure 6. Similarity in the Timing of extremes across different sub-regions
